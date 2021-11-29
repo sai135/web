@@ -1,0 +1,24 @@
+#h{
+    font-family: 'Estonia', cursive;   
+    font-weight: bold;
+    font-size: 70px;
+    margin-left: 350px;
+    text-shadow: 5px 5px 5px #bd5424;
+    color: #9605f0;
+}
+body {
+    background: linear-gradient(#07e032 0%, #00ffe5 100%);
+}
+#h button{
+margin-left: 300px;
+}
+#s1 {
+    font-weight: bold;
+   float: left;
+    font-size: 15px;
+}
+#s2 {
+    font-weight: bold;
+    float: right;
+    font-size: 15px;
+}
